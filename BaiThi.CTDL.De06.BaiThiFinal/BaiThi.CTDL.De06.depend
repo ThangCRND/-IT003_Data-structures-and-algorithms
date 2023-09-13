@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624592309 source:c:\users\dell\documents\baithi.ctdl.de06\main.cpp
+	<iostream>
+	<time.h>
+	<iomanip>
+	<math.h>
+

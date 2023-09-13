@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623342592 source:c:\users\dell\documents\ctdl.lab07.1\main.cpp
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
